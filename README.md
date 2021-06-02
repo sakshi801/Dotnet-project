@@ -1,0 +1,2 @@
+# Dotnet-project
+This website is based on ASP.NET. The purpose of this project was to develop a blood management information system to assist in the management of blood donor records and ease or control the distribution of blood in various part of country based on the hospitals demand. The purpose is to meet the challenging requirement of modern day blood to efficiently collect blood during emergency. 
